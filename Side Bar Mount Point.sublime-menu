@@ -1,4 +1,4 @@
 [
 	{ "caption": "-", "id": "folder_commands" },
-	{ "caption": "Remove Folder from Project", "command": "remove_folder", "args": { "dirs": []} }
+	{ "caption": "從項目中刪除文件夾", "command": "remove_folder", "args": { "dirs": []} }
 ]
